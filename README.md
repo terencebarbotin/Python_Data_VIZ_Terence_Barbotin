@@ -1,7 +1,7 @@
 # pythonE3FI
 
 # USER GUIDE : 
-Voici le lien du projet sur github : https://github.com/terencebarbotin/pythonE3FI
+Voici le lien du projet sur github : https://github.com/terencebarbotin/Python_Data_VIZ_Terence_Barbotin
 
 * 1 : Télécharger le projet en format ZIP
 * 2 : Décompresser le fichier ZIP
